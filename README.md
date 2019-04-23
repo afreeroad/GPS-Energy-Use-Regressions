@@ -7,4 +7,5 @@ Using the World Bank API --> wbdata --> we extract various datapoints concerning
 
 From this data, we are able to compare and observe the relations between these variables, and most importantly, see how the economic preference measures from the GPS relate to the GDP and energy use values. 
 
+'viz_exp.py' is an example of a 3-D data visualization, depicting the relations among 3 variables. It is an extension of 'worldbank.py' and requires 'worldbank.py' to be run beforehand. 
 
